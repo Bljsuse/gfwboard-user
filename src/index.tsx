@@ -24,8 +24,8 @@ import "@fontsource/roboto";
 import "simplebar-react/dist/simplebar.min.css";
 
 // hash router change to browser router
-if (window.location.hash) {
-  window.location.href = window.location.hash;
+if (window.location.hash && window.location.pathname === "/") {
+  window.location.href = new URL(window.location.hash, window.location.href).href;
 }
 
 const container = document.getElementById("root");
