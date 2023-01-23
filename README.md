@@ -1,3 +1,7 @@
+# GFW Board User
+
+[![wakatime](https://wakatime.com/badge/user/81977bc9-5534-44bf-89f9-d1a4cd76fc29/project/d3e84aec-aeea-4bea-aeb0-b83a11a0df8a.svg)](https://wakatime.com/badge/user/81977bc9-5534-44bf-89f9-d1a4cd76fc29/project/d3e84aec-aeea-4bea-aeb0-b83a11a0df8a)
+
 ## Introduction
 
 This is a frontend that is almost fully compatible with the V2Board API, offering more features and customizability than the original v2board-user frontend.
